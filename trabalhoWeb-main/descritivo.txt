@@ -1,0 +1,13 @@
+Bom dia Carlos e Luiz,
+
+Sobre o trabalho estou encaminhando o documento referente ao trabalho integrador.
+Basicamente você devem desenvolver o mesmo trabalho, pode fazer em dupla pois os demais também estão em grupos.
+
+O trabalho consiste em desenvolver um sistema de e-commerce, com layout responsivo deve apresentar o catálogo de produtos (carregados do banco de dados) e i
+mplementar a funcionalidade para um novo cliente criar uma conta no site, ou seja realizar seu cadastro.
+
+Permitir que o cliente possa adicionar produtos de seu interesse ao carrinho, porém não precisa fazer a parte de persistência do pedido no banco de dados, nem a finalização da compra.
+
+A apresentação do projeto para vocês deve ser feita no último dia de aula da disciplina 29/11/2022.
+
+Qualquer dúvida, estou à disposição.
